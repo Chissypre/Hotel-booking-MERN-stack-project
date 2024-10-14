@@ -1,3 +1,6 @@
 [submodule "FRONTEND"]
 	path = FRONTEND
 	url = https://github.com/Chissypre/HotelBookingApp-FRONTEND-Typescript.git
+[submodule "BACKEND"]
+	path = BACKEND
+	url = https://github.com/Chissypre/HotelBookingApp-BACKEND-Typescript.git
